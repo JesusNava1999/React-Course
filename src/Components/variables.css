@@ -1,0 +1,7 @@
+:root{
+    --colorTexto: rgb(219, 219, 19);
+    --colorHeader: rgb(194, 72, 28);
+    
+    --altoHeader: 200px;
+    --anchoHeader: 100%;
+}
